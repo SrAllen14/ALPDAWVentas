@@ -1,2 +1,9 @@
 /* Your Custom CSS Goes here */
 
+*{
+    font-family: Verdana, sans-serif;
+}
+
+body{
+    background-color: white;
+}
